@@ -8,18 +8,17 @@ author_profile: true
 
 <div class="text-justify">
 
-<p>You can downdload a detailed pdf version of my CV in the following link <a href="https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
+<p>You can downdload a detailed pdf version of my CV in the following link <a href="{{ 'assets/pdf/CV_Khajavian_web.pdf' | relative_url }}">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
 
 <h2>Education</h2>
 
 <ul>
-	<li>M.Sc. in Data Science, King's College London, 2019 </li>
-	<li>M.Sc. in Business Analytics, University of Edinburgh, 2018 </li>
-	<li>B.Sc. in Statistics and Business, University of West Florida and University of 		Burgos, 2016 </li>
+	<li>M.Sc. in Environmental Engineering, <u>University of Tehran</u>, 2020-2023</li>
+	<li>B.Sc. in Civil Engineering, <u>University of Tehran</u>, 2016-2020</li>
 
 </ul>
 
-<h2>Research experience</h2>
+<!-- <h2>Research experience</h2>
 <ul>
 
 <li><b>March 2020 - Present: Research Assistant for project: 5G enabled AI for robotic applications</b></li>
@@ -180,6 +179,6 @@ author_profile: true
 	<ul>
   	<li> English (proficient) and Spanish (native speaker)</li>
 	</ul>
-</ul>
+</ul> -->
 
 </div>
