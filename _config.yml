@@ -23,7 +23,7 @@
 # masthead_title: "My Custom Title"
 
 
-url: http://localhost:4000
+url: https://ali-khajavian.github.io/
 baseurl: "/AliKhajavianLab"
 repository: "ali-khajavian/AliKhajavianLab"
 breadcrumbs: false  # disabled by default
