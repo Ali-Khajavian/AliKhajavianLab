@@ -29,6 +29,7 @@ repository: "ali-khajavian/AliKhajavianLab"
 breadcrumbs: false  # disabled by default
 breadcrumb_home_label : "Home"
 breadcrumb_separator  : "/"
+# logo: "/assets/Icons/KH.jpg"
 
 title: Ali Khajavian LAB
 subtitle: "Version 1.0"
