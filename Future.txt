@@ -1,3 +1,9 @@
 1. website Icon
-2. CV
+
+2. CV: worse case scenario I have to use a similiar code to this in
+online version:
+cv: "https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf"
+* the problem with the current version is that IDM detects it as 
+downlaodable file
+
 3. Library: a bookshelf where I introduce books that I find valuable
