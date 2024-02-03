@@ -1,13 +1,39 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Codes"
+    url: /codes/
+  # - title: "Posts"
+  #   url: /posts/
+  # - title: "Categories"
+  #   url: /categories/
+  # - title: "Tags"
+  #   url: /tags/
   - title: "CV"
     url: /cv/
   - title: "About"
     url: /about/
+
+code_list:
+  - title: List of Content
+    children:
+    - title: "Machine Learning"
+      url: /codes/machine-learning/
+    - title: "Control Theory"
+      url: /codes/control-theory/
+
+  - title: Machine Learning
+    children:
+    - title: "SVM"
+      url: /codes/machine-learning/svm
+    - title: "Regression"
+      url: /codes/machine-learning/regression
+  
+  - title: Control Theory
+    children:
+    - title: "PID"
+      url: /codes/control-theory/pid
+    - title: "NMPC"
+      url: /codes/control-theory/NMPC
+      
+
