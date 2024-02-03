@@ -8,7 +8,7 @@ author_profile: true
 
 <div class="text-justify">
 
-<p>You can downdload a detailed pdf version of my CV in the following link <a href="{{ 'assets/pdf/CV_Khajavian_web.pdf' | relative_url }}">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
+<p>You can download a detailed pdf version of my CV in the following link <a href="{{ 'assets/pdf/CV_Khajavian_web.pdf' | relative_url }}">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
 
 <h2>Education</h2>
 
