@@ -25,7 +25,7 @@
 
 url: https://ali-khajavian.github.io
 baseurl: ""
-repository: "ali-khajavian/AliKhajavianLab"
+repository: "ali-khajavian/AliKhajavianLab.github.io"
 breadcrumbs: false  # disabled by default
 breadcrumb_home_label : "Home"
 breadcrumb_separator  : "/"
