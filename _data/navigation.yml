@@ -11,8 +11,8 @@ main:
   #   url: /tags/
   - title: "CV"
     url: /cv/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
 
 code_list:
   - title: List of Content
