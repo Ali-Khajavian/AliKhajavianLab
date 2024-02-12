@@ -28,6 +28,10 @@ code_list:
       url: /codes/machine-learning/svm
     - title: "Regression"
       url: /codes/machine-learning/regression
+    - title: "Random forest"
+      url: /codes/machine-learning/random_forest
+    - title: "Morris' screening"
+      url: /codes/machine-learning/morris_screening          
   
   - title: Control Theory
     children:

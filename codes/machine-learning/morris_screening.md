@@ -1,5 +1,5 @@
 ---
-title: "SVM"
+title: "Morris' screening"
 
 layout: single
 classes:

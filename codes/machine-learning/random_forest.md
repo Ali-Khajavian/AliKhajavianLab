@@ -1,5 +1,5 @@
 ---
-title: "SVM"
+title: "Random forest"
 
 layout: single
 classes:
